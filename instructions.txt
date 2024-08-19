@@ -1,0 +1,5 @@
+Pictures from unsplash.com and Freepik
+** Create script.js
+** Add imports of CSS and Js files
+** Add styles 
+** Using template generate you page using JavaScript
